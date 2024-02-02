@@ -13,7 +13,6 @@ int main(){
   y = (int)(x);
 
   printf("\nAscii value of %c is %i.", x, y);
-
   printf("\n");
 
   return 0;

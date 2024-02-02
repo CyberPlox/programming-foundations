@@ -13,7 +13,6 @@ int main(){
   y = (int)(x);
 
   if(y >= 65 && y <= 90 || y >= 97 && y <= 122){
-
     printf("\n%c is an alphabet.", x);
   }
   else

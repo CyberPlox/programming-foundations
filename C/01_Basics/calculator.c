@@ -14,19 +14,15 @@ int main(){
   scanf("%i", &tmp);
 
   if(tmp == 1){
-
     printf("%i + %i = %i", n1, n2, n1 + n2);
   }
   else if(tmp == 2){
-
     printf("%i - %i = %i", n1, n2, n1 - n2);
   }
   else if(tmp == 3){
-
     printf("%i * %i = %i", n1, n2, n1 * n2);
   }
   else if(tmp == 4){
-
     printf("%i / %i = %i", n1, n2, n1 / n2);
   }
   else
