@@ -1,4 +1,4 @@
-
+// Access the elements of an array using pointer
 
 #include <stdio.h>
 
